@@ -20,8 +20,7 @@
 <div align="center">
     <h3> 📈 Github Stats 📈<h3>
     <img src="https://github-readme-stats.vercel.app/api?username=CaFeCoKe&show_icons=true&hide=contribs&theme=buefy">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaFeCoKe&layout=compact&theme=buefy">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CaFeCoKe&theme=buefy">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaFeCoKe&layout=compact&theme=buefy&card_width=445">
 </div>
 
 <!--
