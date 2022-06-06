@@ -3,6 +3,7 @@
     <h2> 💬 About me 💬 </h2>
     <h4>🎓 Graduated from the Department of Electronic and Information Engineering, Hansung University</h4>
     <h4>📖 Recently, I am studying AI, especially NLP <br>
+        - <a href="https://github.com/CaFeCoKe/TextMining">TextMining</a> <br>
         - <a href="https://github.com/CaFeCoKe/Sat_english">Bi-LSTM using PyTorch</a> <br>
         - <a href="https://github.com/CaFeCoKe/Petitions_Classification">TextCNN using PyTorch</a> <br>
         - <a href="https://github.com/CaFeCoKe/NLP_BERT_GPT">Transformer's BERT & GPT</a> <br>
@@ -13,8 +14,9 @@
 <div align="center">
     <h2> 📚 Tech Stack 📚</h2>
     <h4>currently used</h4>
-    <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
+    <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
     <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
     <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=NumPy&logoColor=white">
     <br>
