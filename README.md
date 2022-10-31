@@ -8,7 +8,7 @@
         - <a href="https://github.com/CaFeCoKe/Petitions_Classification">TextCNN using PyTorch</a> <br>
         - <a href="https://github.com/CaFeCoKe/NLP_BERT_GPT">Transformer's BERT & GPT</a> <br>
         - <a href="https://github.com/CaFeCoKe/KoGPT2_Chatbot">Chatbot using KoGPT2</a> <br>
-        - <a href="https://github.com/CaFeCoKe/Transformers_Models">Transformers_Models(RoBERTa, BART, etc.)(Updating)</a>
+        - <a href="https://github.com/CaFeCoKe/Transformers_Models">Transformers_Models(RoBERTa, BART, etc.)</a>
     </h4>
     
 </div>
