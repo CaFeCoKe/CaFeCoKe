@@ -8,6 +8,7 @@
         - <a href="https://github.com/CaFeCoKe/Petitions_Classification">TextCNN using PyTorch</a> <br>
         - <a href="https://github.com/CaFeCoKe/NLP_BERT_GPT">Transformer's BERT & GPT</a> <br>
         - <a href="https://github.com/CaFeCoKe/KoGPT2_Chatbot">Chatbot using KoGPT2</a> <br>
+        - <a href="https://github.com/CaFeCoKe/Curse-words_Detection">Curse Detection using KcELECTRA</a> <br>
         - <a href="https://github.com/CaFeCoKe/Transformers_Models">Transformers_Models(RoBERTa, BART, etc.)</a>
     </h4>
     
@@ -26,7 +27,6 @@
     <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
     <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
-    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
