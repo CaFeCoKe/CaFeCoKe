@@ -4,12 +4,13 @@
     <h4>🎓 Graduated from the Department of Electronic and Information Engineering, Hansung University</h4>
     <h4>📖 Recently, I am studying AI, especially NLP <br>
         - <a href="https://github.com/CaFeCoKe/TextMining">TextMining</a> <br>
+        - <a href="https://github.com/CaFeCoKe/NLP_BERT_GPT">Transformer's BERT & GPT</a> <br>
+        - <a href="https://github.com/CaFeCoKe/Transformers_Models">Transformers_Models(RoBERTa, BART, etc.)</a> <br>
         - <a href="https://github.com/CaFeCoKe/Sat_english">Bi-LSTM using PyTorch</a> <br>
         - <a href="https://github.com/CaFeCoKe/Petitions_Classification">TextCNN using PyTorch</a> <br>
-        - <a href="https://github.com/CaFeCoKe/NLP_BERT_GPT">Transformer's BERT & GPT</a> <br>
         - <a href="https://github.com/CaFeCoKe/KoGPT2_Chatbot">Chatbot using KoGPT2</a> <br>
         - <a href="https://github.com/CaFeCoKe/Curse-words_Detection">Curse Detection using KcELECTRA</a> <br>
-        - <a href="https://github.com/CaFeCoKe/Transformers_Models">Transformers_Models(RoBERTa, BART, etc.)</a>
+        - <a href="https://github.com/CaFeCoKe/Curse_Detection_Chatbot">Curse Detection Chatbot using KoGPT2 & KcELECTRA</a>
     </h4>
     
 </div>
