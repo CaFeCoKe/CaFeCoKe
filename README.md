@@ -10,7 +10,8 @@
         - <a href="https://github.com/CaFeCoKe/Petitions_Classification">TextCNN using PyTorch</a> <br>
         - <a href="https://github.com/CaFeCoKe/KoGPT2_Chatbot">Chatbot using KoGPT2</a> <br>
         - <a href="https://github.com/CaFeCoKe/Curse-words_Detection">Curse Detection using KcELECTRA</a> <br>
-        - <a href="https://github.com/CaFeCoKe/Curse_Detection_Chatbot">Curse Detection Chatbot using KoGPT2 & KcELECTRA</a>
+        - <a href="https://github.com/CaFeCoKe/Curse_Detection_Chatbot">Curse Detection Chatbot using KoGPT2 & KcELECTRA</a> <br>
+        - <a href="https://github.com/CaFeCoKe/Article_summary">Article Summary using KoBART</a>
     </h4>
     
 </div>
