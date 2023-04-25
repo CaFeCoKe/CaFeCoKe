@@ -4,14 +4,15 @@
     <h4>🎓 Graduated from the Department of Electronic and Information Engineering, Hansung University</h4>
     <h4>📖 Recently, I am studying AI, especially NLP <br>
         - <a href="https://github.com/CaFeCoKe/TextMining">TextMining</a> <br>
-        - <a href="https://github.com/CaFeCoKe/NLP_BERT_GPT">Transformer's BERT & GPT</a> <br>
-        - <a href="https://github.com/CaFeCoKe/Transformers_Models">Transformers_Models(RoBERTa, BART, etc.)</a> <br>
         - <a href="https://github.com/CaFeCoKe/Sat_english">Bi-LSTM using PyTorch</a> <br>
         - <a href="https://github.com/CaFeCoKe/Petitions_Classification">TextCNN using PyTorch</a> <br>
+        - <a href="https://github.com/CaFeCoKe/NLP_BERT_GPT">Transformer's BERT & GPT</a> <br>
+        - <a href="https://github.com/CaFeCoKe/Transformers_Models">Transformers_Models(RoBERTa, BART, etc.)</a> <br>
         - <a href="https://github.com/CaFeCoKe/KoGPT2_Chatbot">Chatbot using KoGPT2</a> <br>
         - <a href="https://github.com/CaFeCoKe/Curse-words_Detection">Curse Detection using KcELECTRA</a> <br>
         - <a href="https://github.com/CaFeCoKe/Curse_Detection_Chatbot">Curse Detection Chatbot using KoGPT2 & KcELECTRA</a> <br>
-        - <a href="https://github.com/CaFeCoKe/Article_summary">Article Summary using KoBART</a>
+        - <a href="https://github.com/CaFeCoKe/Article_summary">Article Summary using KoBART</a> <br>
+        - <a href="https://github.com/CaFeCoKe/KO-EN_Translation">KO-EN_Translation using M2M100</a>
     </h4>
     
 </div>
@@ -20,12 +21,11 @@
     <h4>currently used</h4>
     <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
-    <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
     <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
     <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=NumPy&logoColor=white">
     <br>
     <h4>used at least once</h4>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+    <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
     <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
     <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
