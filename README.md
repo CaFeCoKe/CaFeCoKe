@@ -12,7 +12,8 @@
         - <a href="https://github.com/CaFeCoKe/Curse-words_Detection">Curse Detection using KcELECTRA</a> <br>
         - <a href="https://github.com/CaFeCoKe/Curse_Detection_Chatbot">Curse Detection Chatbot using KoGPT2 & KcELECTRA</a> <br>
         - <a href="https://github.com/CaFeCoKe/Article_summary">Article Summary using KoBART</a> <br>
-        - <a href="https://github.com/CaFeCoKe/KO-EN_Translation">KO-EN_Translation using M2M100</a>
+        - <a href="https://github.com/CaFeCoKe/KO-EN_Translation">KO-EN_Translation using M2M100</a> <br>
+        - <a href="https://github.com/CaFeCoKe/Interview_Writer">Interview Writer using Transformers Decoder & KoGPT2</a>
     </h4>
     
 </div>
