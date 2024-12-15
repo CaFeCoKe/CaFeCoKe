@@ -43,11 +43,6 @@
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaFeCoKe&layout=compact&theme=buefy&card_width=445">
 </div>
-<div align="center">
-    <h2> 😟 특이사항 😟</h2>
-    <h5>2023년 07월 07일 뇌동맥류(Cerebral aneurysm)로 인한 원인불명의 뇌경색(Cerebral infarction) 발생</h5>
-    <h5>수술 후 큰 문제는 없었지만 현재는 우측 편마비(right hemiplegia)와 복시(Diplopia)가 나타난다</h5>
-</div>
 <!--
 **CaFeCoKe/CaFeCoKe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
